@@ -1,79 +1,80 @@
-👋 Olá, eu sou o Leonardo!
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" /> </div>
-🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Adoro aprender novas tecnologias e compartilhar conhecimento com a comunidade.
-
-🔭 Atualmente trabalhando em projetos interessantes
-🌱 Aprendendo sempre algo novo
-💬 Pergunte-me sobre JavaScript, Python, React
-📫 Como me encontrar: leonardomarconimarcheti@email.com
-⚡ Fato curioso: Café é meu combustível principal ☕
-🛠️ Tecnologias & Ferramentas
+<!-- Banner / Header -->
 <div align="center">
-Linguagens
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
-Frontend
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
-Backend
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
-Banco de Dados
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
-Ferramentas & DevOps
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
+	<h4>SENAI Shunji Nishmura</h4>
+	<h1>👨‍💻 Leonardo Marcheti - iDev</h1>
+	<p>Desenvolvedor Full Stack • Next.js • Angular • Node.js • Lua</p>
 </div>
-📊 Estatísticas do GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-march&theme=tokyonight" alt="GitHub Streak" /> </div>
-🏆 Troféus do GitHub
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Leo-march&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" /> </div>
-📈 Gráfico de Contribuições
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&theme=tokyo-night&hide_border=true" /> </div>
-🐍 Contribuições
-<div align="center"> <img src="https://raw.githubusercontent.com/Leo-march/Leo-march/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
-💼 Projetos em Destaque
-Mostrar Imagem
-Mostrar Imagem
 
-🌐 Conecte-se Comigo
+---
+
+## 🧰 Tecnologias
 <div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
+	<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+	<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+	<img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+	<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
-📫 Vamos Conversar?
+
+## 🎓 Estudando
 <div align="center">
-Mostrar Imagem
-Mostrar Imagem
-
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+	<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+	<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+	<img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox%20Studio-00AEEF?style=for-the-badge&logo=roblox&logoColor=white" />
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Leo-march&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile views" /> </div> <div align="center">
-💭 Frase do Dia
-Mostrar Imagem
 
-</div> <div align="center">
-"Código limpo não é escrito seguindo regras. É escrito com amor." 💙
-
+## 🛠️ Ferramentas
+<div align="center">
+	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+	<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+	<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+	<img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox%20Studio-00AEEF?style=for-the-badge&logo=roblox&logoColor=white" />
+	<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+	<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
+
+---
+
+## 📖 Sobre Mim
+- 🎓 Estudante de Desenvolvimento de Sistemas no SENAI Shunji Nishmura — Pompeia/SP
+- 💼 Full Stack Developer: Next.js, Angular, Ionic, React, Node.js, APIs REST
+- 🕹️ Estudando Lua para Roblox e desenvolvimento de jogos em Unity com C#
+- 🧰 Ferramentas: Figma, VS Code, Visual Studio, Roblox Studio, Postman, Notion
+- 🗄️ Banco de dados: MySQL — dados e dashboards
+
+---
+
+## 🚀 Projetos
+- Repositórios e projetos em destaque no meu perfil do GitHub.
+<div align="center">
+	<a href="https://github.com/Leo-march"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+## 📫 Contato
+<div align="center">
+	<!-- Substitua pelos seus links -->
+	<a href="mailto:leonardomarconimarcheti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://github.com/Leo-march" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center"> 
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center"> 
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-march&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Leo-march&color=58A6FF&style=for-the-badge&label=Visitantes" alt="Profile views" /> </div>
+
+> 💙 "Código limpo não é escrito seguindo regras. É escrito com amor."
