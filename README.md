@@ -6,7 +6,7 @@
 <!-- Banner / Header: typing SVG (centralizado) -->
 <div align="center" style="margin:28px 0 36px 0;">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=001f54&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti;Desenvolvedor+Full+Stack;Estudante+do+SENAI+Shunji+Nishmura+-+Pompeia+SP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=001f54&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti;Desenvolvedor+Full+Stack;Estudante+do+SENAI+Shunji+Nishimura+-+Pompeia+SP" alt="Typing SVG" />
   </a>
 </div>
 
@@ -56,10 +56,10 @@
 
 ## 📫 Contato
 <div align="center">
-	<!-- Substitua pelos seus links -->
-	<a href="mailto:leonardomarconimarcheti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/leonardo-marcheti-257220324/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="https://www.instagram.com/leo__marc" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- Contato: badge de e-mail (mailto) -->
+  <a href="mailto:leonardomarconimarcheti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-marcheti-257220324/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/leo__marc" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ---
