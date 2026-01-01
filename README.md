@@ -1,21 +1,13 @@
-<!-- Decorative top wave (inline SVG) -->
+<!-- Capsule Render top wave -->
 <div>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="none" style="display:block;width:100%;height:90px;object-fit:cover;">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0" stop-color="#6f86b6" stop-opacity="1"/>
-        <stop offset="1" stop-color="#7ca5d6" stop-opacity="1"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="150" fill="#ffffff" />
-    <path d="M0,60 C200,10 400,120 600,80 C800,40 1000,110 1200,60 L1200,0 L0,0 Z" fill="url(#g1)" opacity="0.95"/>
-    <path d="M0,80 C200,30 400,140 600,100 C800,60 1000,130 1200,80 L1200,0 L0,0 Z" fill="#ffffff" opacity="0.08"/>
-  </svg>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=03fca1&height=120&section=header" alt="Top wave" />
 </div>
 
 <!-- Banner / Header: typing SVG (centralizado) -->
 <div align="center" style="margin:28px 0 36px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti;Desenvolvedor+Full+Stack;Estudante+do+SENAI+Shunji+Nishmura+-+Pompeia+SP" alt="Typing SVG" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=34ebc6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti.;Desenvolvedor+Full+Stack.;Estudante+do+SENAI+Shunji+Nishmura." alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -86,21 +78,14 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-march&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
+<!-- Activity graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=3acb5b&line=00fa9a&point=3afd5b&area=true&hide_border=true)](https://github.com/Leo-march)
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Leo-march&color=58A6FF&style=for-the-badge&label=Visitantes" alt="Profile views" /> </div>
 
 > 💙 "Código limpo não é escrito seguindo regras. É escrito com amor."
 
-<!-- Decorative bottom wave (inline SVG) -->
+<!-- Capsule Render bottom wave -->
 <div>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="none" style="display:block;width:100%;height:90px;object-fit:cover;">
-    <defs>
-      <linearGradient id="g2" x1="0" x2="1">
-        <stop offset="0" stop-color="#7ca5d6" stop-opacity="1"/>
-        <stop offset="1" stop-color="#6f86b6" stop-opacity="1"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="150" fill="#ffffff" />
-    <path d="M0,90 C200,140 400,20 600,60 C800,100 1000,30 1200,90 L1200,150 L0,150 Z" fill="url(#g2)" opacity="0.95"/>
-    <path d="M0,70 C200,120 400,0 600,40 C800,80 1000,10 1200,70 L1200,150 L0,150 Z" fill="#ffffff" opacity="0.06"/>
-  </svg>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=03fca1&height=120&section=footer" alt="Bottom wave" />
 </div>
