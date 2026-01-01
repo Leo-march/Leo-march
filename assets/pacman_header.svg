@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120" role="img" aria-label="Animated header">
+  <title>Header Animation</title>
+  <defs>
+    <style type="text/css"><![CDATA[
+      .caption { font: 700 20px 'Fira Sans', Arial, sans-serif; fill:#58A6FF; text-anchor:middle; }
+    ]]></style>
+  </defs>
+
+  <!-- Background transparent so it adapts to theme -->
+
+  <!-- Three phrases that fade in/out in a loop -->
+  <text id="t1" class="caption" x="400" y="60">Olá, sou o Leonardo Marcheti.</text>
+  <text id="t2" class="caption" x="400" y="60" opacity="0">Desenvolvedor Full Stack.</text>
+  <text id="t3" class="caption" x="400" y="60" opacity="0">Estudante do SENAI Shunji Nishmura.</text>
+
+  <!-- Opacity animation for each text (total dur = 9s) -->
+  <animate xlink:href="#t1" attributeName="opacity" dur="9s" values="1;1;0;0" keyTimes="0;0.33;0.39;1" repeatCount="indefinite" />
+  <animate xlink:href="#t2" attributeName="opacity" dur="9s" values="0;0;1;0" keyTimes="0;0.33;0.72;1" repeatCount="indefinite" />
+  <animate xlink:href="#t3" attributeName="opacity" dur="9s" values="0;0;0;1" keyTimes="0;0.72;0.78;1" repeatCount="indefinite" />
+
+  <!-- Pac-Man group: will travel horizontally and chew (mouth rotation) -->
+  <g id="pacman" transform="translate(820,60)">
+    <circle cx="0" cy="0" r="22" fill="#FFCC00" />
+    <!-- mouth as a white triangle (the 'eating' effect is visual; on dark backgrounds it will look different) -->
+    <polygon id="mouth" points="0,0 -22,15 -22,-15" fill="#ffffff" />
+    <!-- animate mouth open/close continuously -->
+    <animateTransform xlink:href="#mouth" attributeName="transform" type="rotate" dur="0.35s" values="0 0 0;25 0 0;0 0 0" repeatCount="indefinite" />
+    <!-- move pac-man across the text area at the moments of transition -->
+    <animateTransform attributeName="transform" type="translate" dur="9s" repeatCount="indefinite"
+      values="820,60;420,60;420,60;20,60;820,60"
+      keyTimes="0;0.33;0.39;0.72;1" />
+  </g>
+
+</svg>
