@@ -64,7 +64,7 @@
 
 <div align="center" style="margin-top:8px;">
   <p>Ou copie o e‑mail e cole no seu cliente: <strong>leonardomarconimarcheti@gmail.com</strong></p>
-  <p><a href="mailto:leonardomarconimarcheti@gmail.com">Enviar email (mailto)</a> • <a href="https://mail.google.com/mail/?view=cm&to=leonardomarconimarcheti@gmail.com" target="_blank">Abrir no Gmail</a></p>
+  <p><a href="https://mail.google.com/mail/?view=cm&to=leonardomarconimarcheti@gmail.com" target="_blank">Abrir no Gmail</a></p>
 </div>
 
 ---
