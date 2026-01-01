@@ -1,12 +1,12 @@
 <!-- Capsule Render top wave -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b3d91&height=120&section=header" alt="Top wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f54&height=120&section=header" alt="Top wave" />
 </div>
 
 <!-- Banner / Header: typing SVG (centralizado) -->
 <div align="center" style="margin:28px 0 36px 0;">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=34ebc6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti.;Desenvolvedor+Full+Stack.;Estudante+do+SENAI+Shunji+Nishmura." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=001f54&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti.;Desenvolvedor+Full+Stack.;Estudante+do+SENAI+Shunji+Nishmura." alt="Typing SVG" />
   </a>
 </div>
 
@@ -70,8 +70,8 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center"> 
-	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=001f54&icon_color=001f54&text_color=C9D1D9"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=001f54&text_color=C9D1D9"/>
 </div>
 
 <div align="center"> 
@@ -79,7 +79,7 @@
 </div>
 
 <!-- Activity graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=3acb5b&line=00fa9a&point=3afd5b&area=true&hide_border=true)](https://github.com/Leo-march)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=001f54&line=001f54&point=001f54&area=true&hide_border=true)](https://github.com/Leo-march)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Leo-march&color=58A6FF&style=for-the-badge&label=Visitantes" alt="Profile views" /> </div>
 
@@ -87,5 +87,5 @@
 
 <!-- Capsule Render bottom wave -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b3d91&height=120&section=footer" alt="Bottom wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f54&height=120&section=footer" alt="Bottom wave" />
 </div>
