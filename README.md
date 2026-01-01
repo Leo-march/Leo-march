@@ -6,13 +6,13 @@
 <!-- Banner / Header: typing SVG (centralizado) -->
 <div align="center" style="margin:28px 0 36px 0;">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=001f54&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marchet.;Desenvolvedor+Full+Stack;Estudante+do+SENAI+Shunji+Nishmura+-+Pompeia+SP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=001f54&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti;Desenvolvedor+Full+Stack;Estudante+do+SENAI+Shunji+Nishmura+-+Pompeia+SP" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 🧰 Tecnologias
+## ⌨️ Tecnologias
 <div align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@
 ## 🎓 Estudando
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="C++" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
@@ -51,9 +51,6 @@
 
 ## 🚀 Projetos
 - Repositórios e projetos em destaque no meu perfil do GitHub.
-<div align="center">
-	<a href="https://github.com/Leo-march"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 ---
 
