@@ -1,6 +1,9 @@
-<!-- Banner / Header: animated SVG -->
+<!-- Banner / Header: typing SVG + Pac-Man GIF (GitHub-safe) -->
 <div align="center">
-  <img src="assets/pacman_header.svg" alt="Header animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti.;Desenvolvedor+Full+Stack.;Estudante+do+SENAI+Shunji+Nishmura." alt="Typing SVG" />
+  <br />
+  <!-- Pac-Man GIF público; substitua pela sua preferência se quiser -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Pac-Man.gif" alt="Pac-Man" width="64" />
 </div>
 
 ---
