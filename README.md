@@ -71,7 +71,9 @@
 ## 📊 Estatísticas do GitHub
 <!-- Activity graph (single image as requested) -->
 <div align="center">
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=001f54&line=001f54&point=001f54&area=true&hide_border=true)](https://github.com/Leo-march)
+  <a href="https://github.com/Leo-march">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=001f54&line=001f54&point=001f54&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Leo-march&color=58A6FF&style=for-the-badge&label=Visitantes" alt="Profile views" /> </div>
