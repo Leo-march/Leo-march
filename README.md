@@ -69,17 +69,10 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=001f54&icon_color=001f54&text_color=C9D1D9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=001f54&text_color=C9D1D9"/>
+<!-- Activity graph (single image as requested) -->
+<div align="center">
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=001f54&line=001f54&point=001f54&area=true&hide_border=true)](https://github.com/Leo-march)
 </div>
-
-<div align="center"> 
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-march&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<!-- Activity graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=001f54&line=001f54&point=001f54&area=true&hide_border=true)](https://github.com/Leo-march)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Leo-march&color=58A6FF&style=for-the-badge&label=Visitantes" alt="Profile views" /> </div>
 
