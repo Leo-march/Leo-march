@@ -62,6 +62,11 @@
   <a href="https://www.instagram.com/leo__marc" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
+<div align="center" style="margin-top:8px;">
+  <p>Ou copie o e‑mail e cole no seu cliente: <strong>leonardomarconimarcheti@gmail.com</strong></p>
+  <p><a href="mailto:leonardomarconimarcheti@gmail.com">Enviar email (mailto)</a> • <a href="https://mail.google.com/mail/?view=cm&to=leonardomarconimarcheti@gmail.com" target="_blank">Abrir no Gmail</a></p>
+</div>
+
 ---
 
 ## 📊 Estatísticas sobre o GitHub
