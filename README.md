@@ -1,14 +1,6 @@
-<!-- Banner / Header: typing SVG + Pac-Man GIF (GitHub-safe) -->
-<div align="center">
-  <table cellpadding="12"><tr>
-    <td valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti.;Desenvolvedor+Full+Stack.;Estudante+do+SENAI+Shunji+Nishmura." alt="Typing SVG" />
-    </td>
-    <td valign="middle">
-      <!-- Pac-Man GIF público; substitua pela sua preferência se quiser -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Pac-Man.gif" alt="Pac-Man" width="96" />
-    </td>
-  </tr></table>
+<!-- Banner / Header: typing SVG (centralizado) -->
+<div align="center" style="margin:28px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti.;Desenvolvedor+Full+Stack.;Estudante+do+SENAI+Shunji+Nishmura." alt="Typing SVG" />
 </div>
 
 ---
