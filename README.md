@@ -1,83 +1,151 @@
-<!-- Capsule Render top wave -->
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f54&height=120&section=header" alt="Top wave" />
+<!-- VALORANT STYLE README -->
+
+<!-- Top Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:FF4655,100:0a0a0a&height=200&section=header&text=LEONARDO%20MARCHETI&fontSize=52&fontColor=FFFFFF&fontAlignY=50&desc=FULL%20STACK%20DEV%20%2F%2F%20AGENT%20ATIVO&descSize=18&descAlignY=70&descColor=FF4655&stroke=FF4655&strokeWidth=2" alt="Banner"/>
 </div>
 
-<!-- Banner / Header: typing SVG (centralizado) -->
-<div align="center" style="margin:28px 0 36px 0;">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=001f54&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+sou+o+Leonardo+Marcheti;Desenvolvedor+Full+Stack;Estudante+do+SENAI+Shunji+Nishimura+-+Pompeia+SP" alt="Typing SVG" />
-  </a>
+<!-- Agent ID Card -->
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ██████████████████████████████████████████████████████  ║
+║                                                          ║
+║   AGENTE  :  LEONARDO MARCHETI                           ║
+║   CLASSE  :  Full Stack Developer                        ║
+║   DOJO    :  SENAI Shunji Nishimura — Pompeia / SP       ║
+║   RANK    :  Estudante Avançado ↑                        ║
+║   FOCO    :  Next.js · Angular · Full Stack              ║
+║   MISSÃO  :  Transformar ideias em experiências digitais ║
+║   STATUS  :  🔴 ONLINE — Pronto para o protocolo         ║
+║                                                          ║
+║  ██████████████████████████████████████████████████████  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+---
+
+## <img src="https://img.shields.io/badge/▶-FF4655?style=flat-square" /> PROTOCOLO DE COMBATE — Tecnologias
+
+</div>
+
+<div align="center">
+
+### ⚔️ Habilidades Primárias
+
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF4655" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-FF4655?style=for-the-badge&logo=angular&logoColor=white" />
+<img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### 🎯 Habilidades em Treinamento
+
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+### 🔧 Arsenal / Ferramentas
+
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
 ---
 
-## ⌨️ Tecnologias
 <div align="center">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+## 🗺️ MAPA TÁTICO — Sobre Mim
+
 </div>
 
-## 🎓 Estudando
-<div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+> **// BRIEFING DO AGENTE //**
+>
+> 🎓 Estudante de Desenvolvimento de Sistemas — **SENAI Shunji Nishimura · Pompeia/SP**
+>
+> 💻 Full Stack com foco em **Next.js, Angular, Ionic, HTML, CSS, Node.js e APIs REST**
+>
+> 🕹️ Estudando **C++** para futuramente entrar na área de **desenvolvimento de games**
+>
+> 🗄️ Banco de dados com **MySQL** — dados estruturados, dashboards e relatórios
+>
+> 🛠️ Arsenal completo: **Figma, VS Code, Azure, Postman, Android Studio**
+>
+> 🔴 Protocolo ativo — sempre aprendendo, sempre evoluindo.
 
-## 🛠️ Ferramentas
+---
+
 <div align="center">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+## 📡 RADAR DE ATIVIDADE
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0d1117&color=FF4655&line=FF4655&point=ffffff&area=true&area_color=FF4655&hide_border=false&border_color=FF4655&title_color=FF4655)](https://github.com/Leo-march)
+
 </div>
 
 ---
 
-## 📖 Sobre Mim
-- 🎓 Estudante de Desenvolvimento de Sistemas no SENAI Shunji Nishmura — Pompeia/SP
-- 💼 Full Stack Developer: Next.js, Angular, Ionic, HTML, CSS, Node.js, APIs REST
-- 🕹️ Estudando C++ para futuramente atuar na área de games
-- 🧰 Ferramentas: Figma, VS Code, Azure, Postman e Android Studio
-- 🗄️ Banco de dados: MySQL — dados e dashboards
-
----
-
-## 🚀 Projetos
-- Repositórios e projetos em destaque no meu perfil do GitHub.
-
----
-
-## 📫 Contato
 <div align="center">
-  <!-- Contato: badge de e-mail (mailto) -->
-  <a href="mailto:leonardomarconimarcheti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-marcheti-257220324/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/leo__marc" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
 
-<div align="center" style="margin-top:8px;">
-  <p>Ou apenas copie o e‑mail e cole no seu cliente: <strong>leonardomarconimarcheti@gmail.com</strong></p>
-  <p><a href="https://mail.google.com/mail/?view=cm&to=leonardomarconimarcheti@gmail.com" target="_blank">Abrir no Gmail</a></p>
+## 📊 ESTATÍSTICAS DO AGENTE
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF4655&icon_color=FF4655&text_color=ffffff&border_color=FF4655&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&theme=dark&bg_color=0d1117&title_color=FF4655&text_color=ffffff&border_color=FF4655&hide_border=false" />
+
 </div>
 
 ---
 
-## 📊 Estatísticas sobre o GitHub
-<!-- Activity graph (single image as requested) -->
 <div align="center">
-  <a href="https://github.com/Leo-march">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0c1414&color=001f54&line=001f54&point=001f54&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+
+## 🤝 ALIADOS — Squad
+
+[![xtoguia](https://img.shields.io/badge/⚡_XTOGUIA-0d1117?style=for-the-badge&logo=github&logoColor=FF4655&labelColor=0d1117)](https://github.com/xtoguia)
+[![rafinha20010](https://img.shields.io/badge/⚡_RAFINHA20010-0d1117?style=for-the-badge&logo=github&logoColor=FF4655&labelColor=0d1117)](https://github.com/rafinha20010)
+
 </div>
 
-<!-- Capsule Render bottom wave -->
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f54&height=120&section=footer" alt="Bottom wave" />
+---
+
+<div align="center">
+
+## 📡 CONTATO — Iniciar Protocolo
+
+[![Email](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomarconimarcheti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marcheti-257220324/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo__marc)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=FF4655)](https://github.com/Leo-march)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Leo-march&color=FF4655&style=for-the-badge&label=VISITAS+AO+PERFIL)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// TRANSMISSÃO ENCERRADA //
+"O código que você escreve hoje é o jogo de amanhã."
+                                        — Leonardo Marcheti
+```
+
+</div>
+
+<!-- Bottom Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:FF4655,100:0a0a0a&height=120&section=footer&reversal=true" alt="Footer"/>
 </div>
