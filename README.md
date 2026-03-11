@@ -26,7 +26,6 @@
 
 </div>
 
-> **// Metas do Agente //**
 > Sem dúvidas programar pode ser um problema para alguns, mas para aqueles que se dedicam é com certeza **um leque de aventuras**. Atualmente estou me especializando no básico Full-Stack, porém **toda lenda precisa da base** e essa que está escrevendo essa mensagem está indo atrás de um futuro inimaginável. 
 ---
 
