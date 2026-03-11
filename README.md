@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:FF4655,100:0a0a0a&height=200&section=header&text=LEONARDO&fontSize=52&fontColor=FFFFFF&fontAlignY=50&desc=FULL%20STACK%20DEV%20%2F%2F%20AGENT%20ATIVO&descSize=18&descAlignY=70&descColor=FF4655&stroke=FF4655&strokeWidth=2" alt="Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:FF4655,100:0a0a0a&height=200&section=header&text=LEONARDO&fontSize=52&fontColor=FFFFFF&fontAlignY=50&desc=FULL%20STACK%20DEV&descSize=18&descAlignY=70&descColor=FF4655&stroke=FF4655&strokeWidth=2" alt="Banner"/>
 </div>
 
 <!-- Agent ID Card -->
@@ -27,7 +27,7 @@
 </div>
 
 > **// Metas do Agente //**
-Sem dúvidas
+Sem dúvidas programar pode ser um problema para alguns, mas para aqueles que se dedicam é com certeza **um leque de aventuras**. Atualmente estou me especializando no básico Full-Stack, porém **toda lenda precisa da base** e essa que está escrevendo essa mensagem está indo atrás de um futuro inimaginável. 
 ---
 
 <div align="center">
@@ -126,7 +126,7 @@ Sem dúvidas
 
 ```
 // TRANSMISSÃO ENCERRADA //
-"."
+"Só basta querer que se alcança."
 ```
 
 </div>
