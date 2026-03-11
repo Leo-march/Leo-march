@@ -1,5 +1,3 @@
-<!-- VALORANT STYLE README -->
-
 <!-- Top Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:FF4655,100:0a0a0a&height=200&section=header&text=LEONARDO%20MARCHETI&fontSize=52&fontColor=FFFFFF&fontAlignY=50&desc=FULL%20STACK%20DEV%20%2F%2F%20AGENT%20ATIVO&descSize=18&descAlignY=70&descColor=FF4655&stroke=FF4655&strokeWidth=2" alt="Banner"/>
@@ -14,11 +12,11 @@
 ║                                                          ║
 ║   AGENTE  :  LEONARDO MARCHETI                           ║
 ║   CLASSE  :  Full Stack Developer                        ║
-║   DOJO    :  SENAI Shunji Nishimura — Pompeia / SP       ║
-║   RANK    :  Estudante Avançado ↑                        ║
+║   MAPA    :  SENAI Shunji Nishimura — Pompeia / SP       ║
+║   RANK    :  Agente Avançado ↑                           ║
 ║   FOCO    :  Next.js · Angular · Full Stack              ║
 ║   MISSÃO  :  Transformar ideias em experiências digitais ║
-║   STATUS  :  🔴 ONLINE — Pronto para o protocolo         ║
+║   STATUS  :  ONLINE — Preparado para o combate           ║
 ║                                                          ║
 ║  ██████████████████████████████████████████████████████  ║
 ╚══════════════════════════════════════════════════════════╝
@@ -32,9 +30,31 @@
 
 </div>
 
+## 🗺️ MAPA TÁTICO — Sobre Mim
+
+</div>
+
+> **// Metas do Agente //**
+>
+> 🎓 Estudante de Desenvolvimento de Sistemas — **SENAI Shunji Nishimura · Pompeia/SP**
+>
+> 💻 Full Stack com foco em **Next.js, Angular, Ionic, HTML, CSS, Node.js e APIs REST**
+>
+> 🕹️ Estudando **C++** para futuramente entrar na área de **desenvolvimento de games**
+>
+> 🗄️ Banco de dados com **MySQL** — dados estruturados, dashboards e relatórios
+>
+> 🛠️ Arsenal completo: **Figma, VS Code, Azure, Postman, Android Studio**
+>
+> 🟢 Protocolo ativo — sempre aprendendo, sempre evoluindo.
+
+---
+
 <div align="center">
 
-### ⚔️ Habilidades Primárias
+<div align="center">
+
+### ⚔️ Técnicas Primárias
 
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF4655" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-FF4655?style=for-the-badge&logo=angular&logoColor=white" />
@@ -66,29 +86,7 @@
 
 <div align="center">
 
-## 🗺️ MAPA TÁTICO — Sobre Mim
-
-</div>
-
-> **// BRIEFING DO AGENTE //**
->
-> 🎓 Estudante de Desenvolvimento de Sistemas — **SENAI Shunji Nishimura · Pompeia/SP**
->
-> 💻 Full Stack com foco em **Next.js, Angular, Ionic, HTML, CSS, Node.js e APIs REST**
->
-> 🕹️ Estudando **C++** para futuramente entrar na área de **desenvolvimento de games**
->
-> 🗄️ Banco de dados com **MySQL** — dados estruturados, dashboards e relatórios
->
-> 🛠️ Arsenal completo: **Figma, VS Code, Azure, Postman, Android Studio**
->
-> 🔴 Protocolo ativo — sempre aprendendo, sempre evoluindo.
-
----
-
-<div align="center">
-
-## 📡 RADAR DE ATIVIDADE
+## 📡 Radar de Combate
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-march&bg_color=0d1117&color=FF4655&line=FF4655&point=ffffff&area=true&area_color=FF4655&hide_border=false&border_color=FF4655&title_color=FF4655)](https://github.com/Leo-march)
 
@@ -98,7 +96,7 @@
 
 <div align="center">
 
-## 📊 ESTATÍSTICAS DO AGENTE
+## 📊 Estatistica não mentem
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF4655&icon_color=FF4655&text_color=ffffff&border_color=FF4655&hide_border=false" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-march&layout=compact&theme=dark&bg_color=0d1117&title_color=FF4655&text_color=ffffff&border_color=FF4655&hide_border=false" />
@@ -109,7 +107,7 @@
 
 <div align="center">
 
-## 🤝 ALIADOS — Squad
+## 🤝 Aliados nessa missão
 
 [![xtoguia](https://img.shields.io/badge/⚡_XTOGUIA-0d1117?style=for-the-badge&logo=github&logoColor=FF4655&labelColor=0d1117)](https://github.com/xtoguia)
 [![rafinha20010](https://img.shields.io/badge/⚡_RAFINHA20010-0d1117?style=for-the-badge&logo=github&logoColor=FF4655&labelColor=0d1117)](https://github.com/rafinha20010)
@@ -120,7 +118,7 @@
 
 <div align="center">
 
-## 📡 CONTATO — Iniciar Protocolo
+## 📡 CONTATO — Vamo ta batendo um papo?
 
 [![Email](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomarconimarcheti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marcheti-257220324/)
@@ -139,8 +137,7 @@
 
 ```
 // TRANSMISSÃO ENCERRADA //
-"O código que você escreve hoje é o jogo de amanhã."
-                                        — Leonardo Marcheti
+"."
 ```
 
 </div>
